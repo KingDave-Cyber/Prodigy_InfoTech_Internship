@@ -8,7 +8,7 @@ Welcome to OFA DAVID's Prodigy InfoTech Tasks repository! This repository contai
 - Within each task directory, you will find the necessary files, code, and any additional resources related to that particular task.
 
 ## Task List
-   **All Tasks:** [Click Here](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master)
+   **All Tasks:** [Click Here](https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship/tree/master)
 
 ## Getting Started
 
@@ -16,10 +16,10 @@ To get started with this repository:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Faltom790/Prodigy-InfoTech-Tasks.git
+   git clone https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship.git
 2. **Navigate to the Task Directory:**
    ```bash
-   cd Prodigy-InfoTech-Tasks/PRODIGY_CS_01
+   cd Prodigy_InfoTech_Tasks/PRODIGY_CS_01
 
 ## Additional Information
 
