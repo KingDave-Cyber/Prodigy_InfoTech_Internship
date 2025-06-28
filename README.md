@@ -1,11 +1,11 @@
 # Prodigy-InfoTech-Internship
 
-Welcome to Tomiwa Falade's Prodigy InfoTech Tasks repository! This repository contains tasks completed as part of the Prodigy InfoTech Internship program.
+Welcome to OFA DAVID's Prodigy InfoTech Tasks repository! This repository contains tasks completed as part of the Prodigy InfoTech Internship program.
 
 ## Repository Structure
 
-- Each task is organized into separate directories named according to the task number.
-- Within each task directory, you will find the necessary files, code, and any additional resources related to that task.
+- Each of the task is organized into separate directories named according to the task number.
+- Within each task directory, you will find the necessary files, code, and any additional resources related to that particular task.
 
 ## Task List
    **All Tasks:** [Click Here](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master)
@@ -30,6 +30,6 @@ Before getting started with the tasks, please ensure the following:
 - **Task Specific Instructions:** For specific instructions related to a task, please refer to the README file within the respective task directory.
 
 For any questions, feedback, or assistance, please feel free to contact:
-- [Tomiwa Falade](mailto:tomiwafalade790@yahoo.com)
+- [OFA DAVID](mailto:ofadavidallen@gmail.com)
 
 
