@@ -4,11 +4,11 @@ Welcome! This repository contains directories for each task I have worked on dur
 
 ## Directory Structure
 
-1. **PRODIGY_CS_01**: Task 1 goes here. [PRODIGY_CS_01](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_01)
-2. **PRODIGY_CS_02**: Task 2 goes here. [PRODIGY_CS_02](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_02)
-3. **PRODIGY_CS_03**: Task 3 goes here. [PRODIGY_CS_03](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_03)
-4. **PRODIGY_CS_04**: Task 4 goes here. [PRODIGY_CS_04](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_04)
-5. **PRODIGY_CS_05**: Task 5 goes here. [PRODIGY_CS_05](https://github.com/Faltom790/Prodigy-InfoTech-Internship/tree/master/PRODIGY_CS_05)
+1. **PRODIGY_CS_01**: Task 1 goes here. [PRODIGY_CS_01](https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship/tree/master/PRODIGY_CS_01)
+2. **PRODIGY_CS_02**: Task 2 goes here. [PRODIGY_CS_02](https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship/tree/master/PRODIGY_CS_02)
+3. **PRODIGY_CS_03**: Task 3 goes here. [PRODIGY_CS_03](https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship/tree/master/PRODIGY_CS_03)
+4. **PRODIGY_CS_04**: Task 4 goes here. [PRODIGY_CS_04](https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship/tree/master/PRODIGY_CS_04)
+5. **PRODIGY_CS_05**: Task 5 goes here. [PRODIGY_CS_05](https://github.com/KingDave-Cyber/Prodigy_InfoTech_Internship/tree/master/PRODIGY_CS_05)
 
 ## Task Details
 
